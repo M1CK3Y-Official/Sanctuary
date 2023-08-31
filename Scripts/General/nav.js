@@ -7,7 +7,7 @@ const navbar = document.querySelector('.navbar');
 const navTmp = 
 `
 <div class="logo-container">
-<a href="/"><img src="../Assets/Logos/Sanctuary_Logo_White.svg" width="100%" alt="Sanctuary Logo" class="logo"></a>
+<a href="/"><img src="./Assets/Logos/Sanctuary_Logo_White.svg" width="100%" alt="Sanctuary Logo" class="logo"></a>
 <p class="logo-text">Sanctuary</p>
 </div>
 
