@@ -12,12 +12,12 @@ const navTmp =
 </div>
 
 <ul class="nav-menu">
-<li class="nav-item"><a href="../index.html" class="nav-link">Home</a></li>
-<li class="nav-item"><a href="../Pages/releases.html" class="nav-link">Releases</a></li>
-<li class="nav-item"><a href="../Pages/sanctuary-sessions.html" class="nav-link">Sanctuary Sessions</a></li>
-<li class="nav-item"><a href="../Pages/artists.html" class="nav-link">Artists</a></li>
-<li class="nav-item"><a href="../Pages/send-demos.html" class="nav-link">Send Demos</a></li>
-<li class="nav-item"><a href="../Pages/contact.html" class="nav-link">Contact</a></li>
+<li class="nav-item"><a href="./index.html" class="nav-link">Home</a></li>
+<li class="nav-item"><a href="./Pages/releases.html" class="nav-link">Releases</a></li>
+<li class="nav-item"><a href="./Pages/sanctuary-sessions.html" class="nav-link">Sanctuary Sessions</a></li>
+<li class="nav-item"><a href="./Pages/artists.html" class="nav-link">Artists</a></li>
+<li class="nav-item"><a href="./Pages/send-demos.html" class="nav-link">Send Demos</a></li>
+<li class="nav-item"><a href="./Pages/contact.html" class="nav-link">Contact</a></li>
 </ul>`
 
 if (navbar) {
