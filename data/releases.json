@@ -1,0 +1,69 @@
+[
+    {
+        "id" : "23",
+        "title" : "What I Do",
+        "artist" : "Vezenance",
+        "image" : "../Assets/Artwork/Vezenance-What-I-Do.avif",
+        "link" : "https://ffm.to/dim023"
+    },
+    {
+        "id" : "24",
+        "title" : "Now You Forgot",
+        "artist" : "Jay Hertz & Ball VRP",
+        "image" : "../Assets/Artwork/JayHertz-Ballvrp-Now-You-Forgot.avif",
+        "link" : "https://ffm.to/dim024"
+    },
+    {
+        "id" : "25",
+        "title" : "Any Good",
+        "artist" : "DIV/IDED",
+        "image" : "../Assets/Artwork/Divided-Any-Good.avif",
+        "link" : "https://ffm.to/dim025"
+    },
+    {
+        "id" : "26",
+        "title" : "Magic",
+        "artist" : "Ruqcie 4U & Appys",
+        "image" : "../Assets/Artwork/Ruqcie-Appys.avif",
+        "link" : "https://ffm.to/dim026"
+    },
+    {
+        "id" : "bbxdim1",
+        "title" : "To The Edge",
+        "artist" : "Xenox, Ball VRP & Novel Soul",
+        "image" : "../Assets/Artwork/To-The-Edge-Artwork.avif",
+        "link" : "https://bbxmusic.net/releases/bbxdim001"
+    },
+    {
+        "id" : "27",
+        "title" : "Meant To Be",
+        "artist" : "Cincau & Ruqcie 4U",
+        "image" : "../Assets/Artwork/Cincau-Ruqcie-Meant-To-Be.avif",
+        "link" : "https://sanctuary.fanlink.to/dim027"
+    },
+    {
+        "id" : "28",
+        "title" : "Waiting",
+        "artist" : "PeterGuo & Triangle Alliance",
+        "image" : "../Assets/Artwork/Peterguo-TriangleAlliance-Waiting.avif",
+        "link" : "https://ffm.to/dim028"
+    },
+    {
+        "id" : "29",
+        "title" : "Back Time",
+        "artist" : "AlidaXXI",
+        "image" : "../Assets/Artwork/Alidaxxi-Back-Time.avif",
+        "link" : "https://ffm.to/dim029"
+    },
+    {
+        "id" : "30",
+        "title" : "Let It Burn",
+        "artist" : "DIV/IDED",
+        "image" : "../Assets/Artwork/Divided-Let-It-Burn.avif",
+        "link" : "https://sanctuary.fanlink.to/sct030",
+        "background" : "../Assets/Artwork/Divided-Let-It-Burn-Background.avif",
+        "color" : "#c03f1f",
+        "color-hover" : "#7b2814",
+        "color-header" : "#c03f1f75"
+    }
+]

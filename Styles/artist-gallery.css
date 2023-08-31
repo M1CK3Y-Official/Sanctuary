@@ -1,0 +1,12 @@
+.artist-container {
+    display: grid;
+    grid-template-rows: 1fr;
+    grid-template-columns: repeat(3, 400px);
+    /* grid-gap: 5em; */
+    grid-column-gap: 5em;
+    grid-row-gap: 2.5em;
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+    padding-bottom: 5em;
+}

@@ -1,0 +1,74 @@
+header {
+    height: 15vh;
+}
+
+main {
+    /* background-image: linear-gradient(to top, #505285 0%, #585e92 12%, #65689f 25%, #7474b0 37%, #7e7ebb 50%, #8389c7 62%, #9795d4 75%, #a2a1dc 87%, #b5aee4 100%); */
+    /* background-image: linear-gradient(#414345, #232526); */
+    background-image: url('../Assets/Background/Background.svg');
+    /* filter: invert(13%) sepia(94%) saturate(5120%) hue-rotate(358deg) brightness(103%) contrast(119%); */
+    /* background-size: cover; */
+    background-repeat: no-repeat;
+    background-position: top;
+    background-attachment: fixed;
+    margin: 0 auto;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+}
+
+.releases {
+    height: auto;
+    max-width: 90%;
+    margin: 0 auto;
+}
+
+.heading {
+    -webkit-text-stroke: 5px;
+    font-size: clamp(2rem, -5.6336rem + 32.57vw, 10rem);
+    color: white;
+    text-transform: uppercase;
+    height: 19rem;
+    line-height: 19rem;
+    text-align: center;
+    text-shadow: 0 0 50px #000000;
+}
+
+.release {
+    max-width: 400px;
+    height: auto;
+    background: #414345;
+    box-shadow: 0 0 25px #00000075;
+    padding: 25px;
+    border-radius: 2.5rem;
+}
+
+.release img {
+    max-width: 100%;
+    border-radius: 2.5rem;
+    border: 2px solid white;
+    box-shadow: 0 0 50px #00000075;
+    margin-bottom: 1em;
+    transition: all 0.2s ease-in-out;
+}
+
+.release img:hover {
+    filter: grayscale(0.75);
+}
+
+.release-title {
+    font-size: clamp(1rem, 0.5146rem + 2.0712vw, 3rem);
+    color: white;
+    font-weight: 600;
+    text-align: center;
+    text-shadow: 5px 2.5px 2.5px #00000025;
+    -webkit-text-stroke: 1px;
+}
+
+.release-artist {
+    font-size: clamp(0.5rem, 0.1359rem + 1.5534vw, 2rem);
+    color: white;
+    font-weight: 600;
+    text-align: center;
+}
+
